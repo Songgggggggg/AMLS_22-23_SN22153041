@@ -1,4 +1,5 @@
-Library needed 
+Library needed :
+-
   *opencv-python(4.6.0)
   -
   *dlib(19.24.0)
